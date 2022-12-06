@@ -7,12 +7,12 @@
 образуют иерархию наследования.
 
 ## 📁 Глобальное содержание
-1. [Основы](https://github.com/kondaaakov/study-php-oop#основы);
-2. [Интерфейсы](https://github.com/kondaaakov/study-php-oop#интерфейсы);
-3. [Трейты](https://github.com/kondaaakov/study-php-oop#трейты);
-4. [Магические методы](https://github.com/kondaaakov/study-php-oop#основы);
-5. [Предопределённые классы](https://github.com/kondaaakov/study-php-oop#основы);
-6. [Пространство имё и автозагрузчик](https://github.com/kondaaakov/study-php-oop#основы).
+1. [Основы](https://github.com/kondaaakov/study-php-oop#основы-%EF%B8%8F);
+2. [Интерфейсы](https://github.com/kondaaakov/study-php-oop#интерфейсы-%EF%B8%8F);
+3. [Трейты](https://github.com/kondaaakov/study-php-oop#трейты-%EF%B8%8F);
+4. [Магические методы](https://github.com/kondaaakov/study-php-oop#магические-методы-%EF%B8%8F);
+5. [Предопределённые классы](https://github.com/kondaaakov/study-php-oop#предопределённые-классы-%EF%B8%8F);
+6. [Пространство имё и автозагрузчик](https://github.com/kondaaakov/study-php-oop#пространство-имён-и-автозагрузчик-%EF%B8%8F).
 
 ## 📂 Содержание
 ### [Основы ↗️](https://github.com/kondaaakov/study-php-oop/tree/master/1-basics)
