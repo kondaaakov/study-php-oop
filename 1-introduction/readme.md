@@ -83,3 +83,6 @@ $myCar->turn(); // автомобиль->поверни
 $myCar->stop(); // автомобиль->остановись
 ```
 
+<hr>
+
+[↩️ назад](https://github.com/kondaaakov/study-php-oop#содержание)
