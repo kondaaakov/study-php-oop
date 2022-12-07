@@ -1,5 +1,5 @@
 ## Содержание раздела "Предопределённые классы"
-56. Класс `Date`;
+56. [Класс `Date`](https://github.com/kondaaakov/study-php-oop/tree/master/5-classes/56-classDate);
 
 <hr>
 
