@@ -15,15 +15,15 @@
 6. [Пространство имё и автозагрузчик](https://github.com/kondaaakov/study-php-oop#пространство-имён-и-автозагрузчик-%EF%B8%8F).
 
 ## 📂 Содержание
-### [Основы ↗️](/tree/master/1-basics)
-1. [Введение](/tree/master/1-basics/1-introduction) 👨‍🏫;
-2. [Свойства](/tree/master/1-basics/2-features) 📝;
-3. [Методы](/tree/master/1-basics/3-methods) ⚙️;
-4. [Свойства и `$this`](/tree/master/1-basics/4-featuresAndThis) 🧰;
-5. [Методы и `$this`](/tree/master/1-basics/5-methodsAndThis) 🛠️;
-6. [public / private](/tree/master/1-basics/6-publicAndPrivate) 🕵️;
+### [Основы ↗️](https://github.com/kondaaakov/study-php-oop/tree/master/1-basics)
+1. [Введение](https://github.com/kondaaakov/study-php-oop/tree/master/1-basics/1-introduction) 👨‍🏫;
+2. [Свойства](https://github.com/kondaaakov/study-php-oop/tree/master/1-basics/2-features) 📝;
+3. [Методы](https://github.com/kondaaakov/study-php-oop/tree/master/1-basics/3-methods) ⚙️;
+4. [Свойства и `$this`](https://github.com/kondaaakov/study-php-oop/tree/master/1-basics/4-featuresAndThis) 🧰;
+5. [Методы и `$this`](https://github.com/kondaaakov/study-php-oop/tree/master/1-basics/5-methodsAndThis) 🛠️;
+6. [public / private](https://github.com/kondaaakov/study-php-oop/tree/master/1-basics/6-publicAndPrivate) 🕵️;
 
-### [Интерфейсы ↗️](/tree/master/2-interfaces)
+### [Интерфейсы ↗️](https://github.com/kondaaakov/study-php-oop/tree/master/2-interfaces)
 36. [Введение в интерфейсы](https://github.com/kondaaakov/study-php-oop/tree/master/2-interfaces/36-introduction);
 
 ### [Трейты ↗️](https://github.com/kondaaakov/study-php-oop/tree/master/3-traits)
